@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+# 📊 Sales Analytics Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive data analytics and visualization dashboard built with React and Recharts, showcasing comprehensive sales performance metrics and business insights.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+**[View Live Dashboard](https://sales-analytics-dashboard-14j8xuzay.vercel.app)**
 
-Runs the app in the development mode.\
+## 🚀 Features
+
+- **Real-time KPI Tracking**: Monitor key metrics including revenue, orders, customers, and average order value
+- **Interactive Visualizations**: 
+  - Line charts for revenue trends
+  - Bar charts for product category performance
+  - Pie charts for regional distribution
+  - Scatter plots for daily performance patterns
+- **Dynamic Filtering**: Filter data by metrics and regions
+- **Performance Analytics**: Track growth rates and trends
+- **Responsive Design**: Fully functional on desktop and mobile devices
+- **Data Insights**: Automated key insights generation
+
+## 🛠️ Technologies Used
+
+- **React.js** - Frontend framework
+- **Recharts** - Data visualization library
+- **Lucide React** - Icon library
+- **Tailwind CSS** - Styling framework
+- **JavaScript ES6+** - Programming language
+- **Vercel** - Deployment platform
+
+## 📈 Key Insights Demonstrated
+
+- Monthly revenue trends and profitability analysis
+- Product category performance comparison
+- Regional sales distribution and patterns
+- Daily performance tracking
+- Growth rate calculations and forecasting
+
+## 🎯 Skills Showcased
+
+- Data analysis and interpretation
+- Interactive dashboard development
+- Component-based architecture in React
+- State management and hooks (useState, useMemo)
+- Data visualization best practices
+- Responsive UI/UX design
+- Modern web development workflows
+
+## 💻 Installation & Setup
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Steps
+```bash
+# Clone the repository
+git clone https://github.com/Akshita005-j/sales-analytics-dashboard.git
+
+# Navigate to project directory
+cd sales-analytics-dashboard
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📦 Build for Production
+```bash
+npm run build
+```
 
-### `npm test`
+Builds the app for production to the `build` folder.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📊 Dashboard Components
 
-### `npm run build`
+### KPI Cards
+- Total Revenue with growth percentage
+- Total Orders tracking
+- Customer acquisition metrics
+- Average order value analysis
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Visualizations
+1. **Monthly Revenue Trend** - Line chart showing revenue and profit over time
+2. **Product Category Sales** - Bar chart comparing sales across categories
+3. **Revenue by Region** - Pie chart showing regional distribution
+4. **Daily Performance** - Scatter plot for daily revenue patterns
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Data Table
+Detailed product performance table with sales, units sold, and growth metrics
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔮 Future Enhancements
 
-### `npm run eject`
+- [ ] CSV file upload functionality
+- [ ] Real-time data integration via APIs
+- [ ] Advanced filtering and search options
+- [ ] Export to PDF/Excel functionality
+- [ ] Predictive analytics using machine learning
+- [ ] User authentication and personalized dashboards
+- [ ] Dark mode support
+- [ ] Multi-language support
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 👨‍💻 Author
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Akshita Jangid**
+- GitHub: [@Akshita005-j](https://github.com/Akshita005-j)
+- Portfolio: [Your Portfolio Link]
+- LinkedIn: [Your LinkedIn]
+- Email: akshitajangid2005.1707@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📄 License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is open source and available under the [MIT License](LICENSE).
 
-## Learn More
+## 🙏 Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Built as a portfolio project to demonstrate data analytics and visualization skills
+- Inspired by modern business intelligence dashboards
+- Created for internship applications in Data Analytics
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+⭐ **If you found this project helpful, please consider giving it a star!**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📧 **Open to internship opportunities in Data Analytics and Visualization**
