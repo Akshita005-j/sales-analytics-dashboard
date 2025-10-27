@@ -112,9 +112,9 @@ Detailed product performance table with sales, units sold, and growth metrics
 
 **Akshita Jangid**
 - GitHub: [@Akshita005-j](https://github.com/Akshita005-j)
-- Portfolio: [Your Portfolio Link]
-- LinkedIn: [Your LinkedIn]
-- Email: akshitajangid2005.1707@gmail.com
+- Portfolio: [https://akshita005-j.github.io/OIBSIP/]
+- LinkedIn: [https://in.linkedin.com/in/akshita-jangid-a8574b360]
+- Email: akshitajangid2005@gmail.com
 
 ## 📄 License
 
